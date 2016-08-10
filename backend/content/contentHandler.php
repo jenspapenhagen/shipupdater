@@ -12,9 +12,8 @@ class contentHandler{
     function bereich($punkt){
         //areas:
         $SaureBeladestelle = array("53.50902 10.05783","53.50895 10.06067","53.50594 10.05642","53.50586 10.06028");
-    
+   
         $output = "";
-    
         if($this->pointLocation->pointInPolygon($punkt, $SaureBeladestelle) == "inside"){
             $output = "SaeureBeladestelle";
         }
@@ -33,7 +32,7 @@ class contentHandler{
             $delfile = "content/".$shortname.".txt";
             if(file_exists($delfile) and filemtime($delfile) < (time() - 300 ) ){
                 unlink($delfile);
-                $this->getNEWdata($url, $shortname);
+                $this->curlInfos($url, $shortname);
                 $output = "Updated";
             }else{
                 $output = "Update only every 5min";
@@ -42,7 +41,7 @@ class contentHandler{
         return $output;
     }
     
-    function getNEWdata($url, $shortname){
+    function curlInfos($url, $shortname){
     
         //File to save the contents to
         $filename = "content/".$shortname.".txt";
@@ -157,7 +156,7 @@ class contentHandler{
     
     }
 
-    function getNewXML(){
+    function writeNewXML(){
     
         $xmlfile = "content/ships.xml";
         $xmlload = file_get_contents($xmlfile);
@@ -224,11 +223,11 @@ class contentHandler{
         fclose($newXMLfile);
         
         //convert to JSON for cross domain fuckup of XML. thanks obama
-        $this->ParseToJSON($contentfile);
+        $this->ParseXMLToJSON($contentfile);
     }
 
     
-    function ParseToJSON($file) {
+    function ParseXMLToJSON($file) {
         
         $fileContents= file_get_contents($file);
         $fileContents = str_replace(array("\n", "\r", "\t"), '', $fileContents);
