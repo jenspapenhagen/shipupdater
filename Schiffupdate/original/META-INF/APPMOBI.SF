@@ -1,0 +1,140 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: SHCGxzzEaMI6zkXjfCtYUEmyHUA=
+Created-By: 1.6.0_45 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: 2D5ACGEVCoWrvl/edT7oPNqTU+4=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/File.js
+SHA1-Digest: 62dDi00JHFVtdaMJNiRZt1LcHIM=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/ProgressEvent.js
+SHA1-Digest: SHz2zufUm+KPPcJMKn25SgSDH9c=
+
+Name: res/xml/config.xml
+SHA1-Digest: fkHD1P4RKjVCvzpkqvi/Ssj6Xog=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileUploadResult.
+ js
+SHA1-Digest: lmdS7wBPatybnTZ1qnkR3zjE4v0=
+
+Name: assets/www/css/index.css
+SHA1-Digest: N6YHp1iN/uYTIqkQjm7UYE+rVzU=
+
+Name: resources.arsc
+SHA1-Digest: nnbge+imek0/qr8II1HRlWlN+LY=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/DirectoryEntry.js
+SHA1-Digest: hGV9TeMPj45plUtIVxck4/Nb5eg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 2QJ3Lv7DfMRuovM1rZ4I28CZ1yg=
+
+Name: assets/www/lib/ionicframework/ionic.min.css
+SHA1-Digest: GggI2H9cw/4RfptPVQcqLo5hseA=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/android/FileSyste
+ m.js
+SHA1-Digest: pJkpMwQeDTVY2C87j6ldmvwrkAE=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileSystem.js
+SHA1-Digest: lWAgNffbzh4z1r/91h8vKP1jWTU=
+
+Name: assets/www/img/logo.png
+SHA1-Digest: YK5vVHXnrWkBUKYiYlRwAZZ/zWU=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/requestFileSystem
+ .js
+SHA1-Digest: FHVXXEOVxB65z7uCM7KsyMtnBG0=
+
+Name: assets/www/css/style.css
+SHA1-Digest: K3OHveLKXKePFIP/WUkPIsODdg0=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/resolveLocalFileS
+ ystemURI.js
+SHA1-Digest: 1QXDMgODv36PlXrczFRhdPooSzw=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/Flags.js
+SHA1-Digest: E4tUfQNwBuZOW4bLoPcgPjwll/Q=
+
+Name: assets/www/js/app.js
+SHA1-Digest: h7nr4HO2ZqwtQVGWja1wio1YRdk=
+
+Name: assets/www/plugins/org.apache.cordova.file-transfer/www/FileTran
+ sfer.js
+SHA1-Digest: MqMQV9W1O87bYECHPa696mfnlFo=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/DirectoryReader.j
+ s
+SHA1-Digest: w7kLJ7UNPfT3ty2LYw9EtMi1Ry8=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: ge8bHc9lH3YlfK2IzIDmJtIAykY=
+
+Name: assets/www/img/update_icon.png
+SHA1-Digest: qRI8mfALdHcmt8y9OWts1idM2g0=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileReader.js
+SHA1-Digest: zRvmaAXuNfZkClVJKJQfB/BW4xs=
+
+Name: assets/www/js/jquery.js
+SHA1-Digest: p2g705eOQxr/Vycuf+/9VoYAEfw=
+
+Name: assets/_where-is-www.txt
+SHA1-Digest: XyoRHUmqQWhFqkB6tnerFbQr+4I=
+
+Name: assets/www/img/anchor-icon.png
+SHA1-Digest: zqNMV6gUXYJ0Djflgis+Ylrr0bI=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: MrjwXnHo//hqnLykO2WAMdDdHHs=
+
+Name: classes.dex
+SHA1-Digest: k1GRKWFEJPwtOKAr62sBt6Y2gJ8=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileEntry.js
+SHA1-Digest: PjMYGH/AACkIWygWFjCK+b48wG8=
+
+Name: assets/www/js/index.js
+SHA1-Digest: LQoh4HOcUVbfQRTdZoNYAEViyzo=
+
+Name: assets/www/content.xml
+SHA1-Digest: +cv8VNmO+u8sbYuhmOqb8BLtDV8=
+
+Name: assets/www/cordova.js
+SHA1-Digest: XUVUwO63jRHdSRFYk2VzPsL89Ho=
+
+Name: assets/www/plugins/org.apache.cordova.file-transfer/www/FileTran
+ sferError.js
+SHA1-Digest: ejAKzzGXd3U6rmA/sQGAzp37u3E=
+
+Name: assets/www/icon.png
+SHA1-Digest: r1Kn/n39p2kTv7W58us6Dq7vbZQ=
+
+Name: res/drawable/icon.png
+SHA1-Digest: KV4HCLrjvqCkRk0P+pb0k33RFPw=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileUploadOptions
+ .js
+SHA1-Digest: y9VMKTzpdoCo28cKm8CJBKMHLtg=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/LocalFileSystem.j
+ s
+SHA1-Digest: t1PeDRlPNkTsZFOAa3QnHTU2evc=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/Entry.js
+SHA1-Digest: bzAYEojN2s2QZr52qTP1/FmKfDo=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileError.js
+SHA1-Digest: e5xMFIZlBrKd+qdd18MBeyWXS6o=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/Metadata.js
+SHA1-Digest: HPgTH1k1JYNKZgMT+lN3TptoccA=
+
+Name: assets/www/lib/ionicframework/ionic.bundle.min.js
+SHA1-Digest: hqmmKffNEsp9vOOw9S2iEHJjCZM=
+
+Name: assets/www/index.html
+SHA1-Digest: LLl0Z7LH5AvzVNpVAOrxv3ovfy8=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileWriter.js
+SHA1-Digest: F0HDRVmbUQEfLhX4LjQihvaC0lM=
+

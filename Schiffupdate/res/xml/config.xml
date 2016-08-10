@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget id="not.yet.specified" version="0.0.1" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:intelxdk="http://xdk.intel.com/ns/v1">
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="AndroidLaunchMode" value="singleTop" />
+    <feature name="App">
+        <param name="android-package" value="org.apache.cordova.App" />
+    </feature>
+    <feature name="File">
+        <param name="android-package" value="org.apache.cordova.file.FileUtils" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="FileTransfer">
+        <param name="android-package" value="org.apache.cordova.filetransfer.FileTransfer" />
+    </feature>
+    <intelxdk:version value="1.0" />
+    <intelxdk:cordova-cli version="3.5" />
+    <name>Schiffupdate</name>
+    <description>zeigt die Schiff Position an</description>
+    <author>Jens</author>
+    <content src="index.html" />
+    <icon density="xhdpi" height="96" platform="android" src="icon.png" width="96" />
+    <intelxdk:plugin intelxdk:name="File Transfer" intelxdk:value="org.apache.cordova.file-transfer" intelxdk:version="0.4.3" />
+    <intelxdk:plugin intelxdk:name="File" intelxdk:value="org.apache.cordova.file" intelxdk:version="1.1.0" />
+    <preference name="android-minSdkVersion" value="10" />
+    <preference name="android-targetSdkVersion" value="19" />
+    <preference name="android-installLocation" value="auto" />
+    <preference name="Fullscreen" value="false" />
+    <preference name="android-permission" value="android.permission.READ_EXTERNAL_STORAGE" />
+    <preference name="android-permission" value="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <access origin="*" />
+    <preference name="DisallowOverscroll" value="true" />
+</widget>

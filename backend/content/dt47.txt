@@ -1,0 +1,970 @@
+HTTP/1.1 200 OK
+Expires: Thu, 8 Jan 2015 20:21:52 GMT
+Access-Control-Allow-Origin: http://www.marinetraffic.com
+Access-Control-Allow-Credentials: true
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Date: Thu, 08 Jan 2015 20:19:52 GMT
+Set-Cookie: SERVERID=www4; path=/
+Cache-control: private
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>DETTMER TANK 47 - Unspecified: current position and details | MMSI 211177630, Callsign DB9048 | Registered in Germany - AIS Marine Traffic</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Details about ship DETTMER TANK 47 (Unspecified registered in Germany), including current position, voyage info and photos. MMSI 211177630, Callsign DB9048">
+<meta name="keywords" content="DETTMER TANK 47,Germany,Unspecified,Schiff,Vessel,BOAT,AIS,VTS,SCHEDULE,REAL_TIME_MAP,LIVE_MAP">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700&subset=latin,greek,vietnamese,cyrillic" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+	<link rel="stylesheet" type="text/css" href="/css/css-bootstrap-1.5.722.css" />
+	<link rel="stylesheet" type="text/css" href="/css/css-data-detail-1.5.722.5694.css" />
+<script type="text/javascript" src="/js/js-msr-1.5.722.js"></script><script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + 
+    '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+    
+    var src = (useSSL ? 'https:' : 'http:') +
+    '//www.googletagservices.com/tag/js/gpt_mobile.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');    
+})();
+
+googletag.cmd.push(function() {
+    mt_atf_728x90 = googletag.defineSlot('/15222045/mt_728x90_atf', [[728, 90], [970, 90]], 'div-gpt-ad-1372944779896-0').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+mt_atf_160x160 = googletag.defineSlot('/15222045/mt_160x160_atf', [160, 160], 'div-gpt-ad-1381773599378-0').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+mt_atf_160x600 = googletag.defineSlot('/15222045/mt_160x600_atf', [160, 600], 'div-gpt-ad-1364826985378-0').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+mt_728x90_btf = googletag.defineSlot('/15222045/mt_728x90_btf', [728, 90], 'div-gpt-ad-1364826985378-5').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+mt_468x60_btf = googletag.defineSlot('/15222045/mt_468x60_btf', [468, 60], 'div-gpt-ad-1364826985378-3').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+mt_300x250_hr = googletag.defineSlot('/15222045/mt_300x250_hr', [300, 250], 'div-gpt-ad-1364826985378-1').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+mt_300x100_photo = googletag.defineSlot('/15222045/mt_300x100_photo', [300, 100], 'div-gpt-ad-1366891976136-1').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+mt_photo_detail       = googletag.defineSlot('/15222045/mt_photo_detail_300x250', [300, 250], 'div-gpt-ad-1401380042194-1').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+                                           mt_photo_detail_small = googletag.defineSlot('/15222045/mt_300x100_photo', [300, 100], 'div-gpt-ad-1401380042194-0').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+mt_photo_gallery_1 = googletag.defineSlot('/15222045/mt_photo_gallery_300x250_1', [300, 250], 'div-gpt-ad-1385658313348-1').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+mt_photo_gallery_2 = googletag.defineSlot('/15222045/mt_photo_gallery_300x250_2', [300, 250], 'div-gpt-ad-1385658313348-2').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+mt_photo_gallery_3 = googletag.defineSlot('/15222045/mt_photo_gallery_300x250_3', [300, 250], 'div-gpt-ad-1385658313348-3').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+mt_photo_gallery_4 = googletag.defineSlot('/15222045/mt_photo_gallery_300x250_4', [300, 250], 'div-gpt-ad-1385658313348-4').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+mt_photo_gallery_5 = googletag.defineSlot('/15222045/mt_photo_gallery_300x250_5', [300, 250], 'div-gpt-ad-1385658313348-5').addService(googletag.pubads()).setTargeting("cat", "vdetail").setTargeting("user_plan", "FREE");
+    googletag.pubads().enableAsyncRendering();
+    // googletag.pubads().enableSingleRequest();
+    
+    googletag.enableServices();
+});
+
+window.mtAppVersion = '1.5.722.5694';
+
+</script>
+
+<link rel="alternate" hreflang="en" href="http://www.marinetraffic.com/en/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="ar" href="http://www.marinetraffic.com/ar/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="bg" href="http://www.marinetraffic.com/bg/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="cn" href="http://www.marinetraffic.com/cn/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="tw" href="http://www.marinetraffic.com/tw/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="cz" href="http://www.marinetraffic.com/cz/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="dk" href="http://www.marinetraffic.com/dk/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="de" href="http://www.marinetraffic.com/de/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="gr" href="http://www.marinetraffic.com/gr/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="ee" href="http://www.marinetraffic.com/ee/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="es" href="http://www.marinetraffic.com/es/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="ir" href="http://www.marinetraffic.com/ir/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="fr" href="http://www.marinetraffic.com/fr/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="ge" href="http://www.marinetraffic.com/ge/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="il" href="http://www.marinetraffic.com/il/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="hr" href="http://www.marinetraffic.com/hr/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="is" href="http://www.marinetraffic.com/is/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="it" href="http://www.marinetraffic.com/it/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="jp" href="http://www.marinetraffic.com/jp/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="lv" href="http://www.marinetraffic.com/lv/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="nl" href="http://www.marinetraffic.com/nl/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="no" href="http://www.marinetraffic.com/no/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="pl" href="http://www.marinetraffic.com/pl/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="pt" href="http://www.marinetraffic.com/pt/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="ro" href="http://www.marinetraffic.com/ro/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="ru" href="http://www.marinetraffic.com/ru/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="rs" href="http://www.marinetraffic.com/rs/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="si" href="http://www.marinetraffic.com/si/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="fi" href="http://www.marinetraffic.com/fi/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="se" href="http://www.marinetraffic.com/se/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="th" href="http://www.marinetraffic.com/th/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="tr" href="http://www.marinetraffic.com/tr/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<link rel="alternate" hreflang="ua" href="http://www.marinetraffic.com/ua/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33656897-1', 'marinetraffic.com');
+  ga('send', 'pageview');
+
+</script><link rel="apple-touch-icon" href="/img/ios/mt_60.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/img/ios/mt_76.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/img/ios/mt_120.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/img/ios/mt_152.png" />
+<link rel="canonical" href="http://www.marinetraffic.com/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<meta property="og:title" content="DETTMER TANK 47 - Unspecified: current position and details | MMSI 211177630, Callsign DB9048 | Registered in Germany - AIS Marine Traffic" />
+<meta property="og:url" content="http://www.marinetraffic.com/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47" />
+<meta property="og:description" content="Details about ship DETTMER TANK 47 (Unspecified registered in Germany), including current position, voyage info and photos. MMSI 211177630, Callsign DB9048" />
+<meta property="og:image" content="http://photos.marinetraffic.com/ais/showphoto.aspx?mmsi=211177630&size=" />
+<meta property="og:site_name" content="Marinetraffic.com" />
+</head>
+<body data-context="data-detail" data-context-type="ships" data-ajax-lang="de" data-country="" data-currency="">
+
+        <header role="banner">
+            <nav class="navbar navbar-default navbar-fixed-top bg-navbar" role="navigation">
+	<div class="container-fluid">
+	<div class="row">
+		<div style="padding-left: 2px; padding-right: 2px" class="col-sm-2">
+			<div class="navbar-header full-width">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mt-menu-collapse">
+				  <span class="sr-only">Toggle navigation</span>
+				  <span class="icon-bar"></span>
+				  <span class="icon-bar"></span>
+				  <span class="icon-bar"></span>
+				</button>
+				<a class="block-elem full-width vertical-aligned text-left no-underline" style="height: 44px" href="/de/">
+					<img src="/img/logo-final.png" style="max-width: 200px; width: 100%; max-height: 100%" class="img-responsive" alt="" />				</a>
+			</div>
+		</div>
+
+		<div class="collapse navbar-collapse no-border no-shadow" id="mt-menu-collapse">
+			<div class="col-sm-4 col-lg-3 navbar-right">
+				<div class="table-cell cell-full collapse-768 text-right">
+					<div class="searchform-wrapper">
+						<form action="/en/ais/index/search/all" id="SEARCHDisplayForm" class="navbar-form navbar-input-group vertical-offset-10" role="search" method="get" accept-charset="utf-8">
+							<div class="input-group mt-input-group">
+								<span class="input-group-btn">
+									<button class="btn" type="submit"><i class="fa fa-search"></i></button>
+								</span>
+								<input name="keyword" class="form-control top_menu_search ui-autocomplete-input" placeholder="Vessel/Port" value="" onclick="this.value=&quot;&quot;;" onfocus="this.select()" onblur="this.value=!this.value?&quot;Vessel/Port&quot;:this.value;" type="text" id="SEARCHKeyword" autocomplete="off">
+								<span class="input-group-btn tangent-loader">
+									<a href="#" class="btn btn-default ladda-button" data-style="slide-right" data-spinner-color="#FFFFFF">
+										<span class="ladda-label">&nbsp;</span>
+									</a>
+								</span>
+							</div><!-- /input-group -->
+						</form>
+					</div>
+				</div>
+				<div class="table-cell collapse-768">
+					<ul class="nav navbar-nav">
+							<li class="dropdown dropdown-arrow dropdown-arrow-default-dark notifications keep-open">
+								<a href="#" class="no-icon text-left" id="myannouncements" data-toggle="dropdown"><div class="badge notif-badge">33</div><i class="flaticon-small36 font-120"></i></a>								<ul class="dropdown-menu no-padding panel panel-default panel-dark">
+									<li class="notif-heading panel-heading text-center no-radius">
+										<div class="notif-heading-content"></div>
+										<div class="no-notif">
+											No new notifications...										</div>
+									</li>
+									<div class="clearfix"></div>
+									<div id="announcelist" class="text-left panel-body no-padding"></div>
+								</ul>
+							</li>
+						<div id="user_menu_holder" class="loader-circle-small"></div>
+					</ul>
+				</div>
+
+			</div>
+
+			<hr class="bg-primary bg-darker special vertical-offset-5 visible-xs"/>
+
+			<div class="col-sm-6 col-lg-7 navbar-left">
+				<ul class="nav navbar-nav text-left">
+					<li >
+						<a href="http://www.marinetraffic.com/de/" class="top_map"><i class="flaticon-world8 font-110"></i> <span>Echtzeitkarte</span></a>					</li>
+
+					
+						<li class="active">
+							<a href="/de/ais/index/ships/range" class="top_vessels"><i class="flaticon-ocean3 font-140"></i> <span>Schiffe</span></a>						</li>
+
+					
+
+					
+						<li >
+							<a href="http://www.marinetraffic.com/de/ais/index/ports/all" class="top_ports"><i class="flaticon-anchor5 font-110"></i> <span>Häfen</span></a>						</li>
+
+					
+
+					<li >
+						<a href="http://www.marinetraffic.com/de/photos/of/ships" class="top_photos"><i class="flaticon-slr2 font-100"></i> <span>fotos</span></a>					</li>
+
+					<li class="dropdown">
+						<a href="#" class="top_participate" data-toggle="dropdown"><i class="flaticon-turn font-110"></i> <span>Participate</span><b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/expand-coverage" class="top_map parent">Auswahl des eigenen Gebietes</a>							</li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/ais/index/stations/all" class="top_map parent">Empfangsstationen</a>							</li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/ais/index/photographers" class="top_map parent">Fotografen</a>							</li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/photos/upload" class="top_map parent">Fotos hochladen</a>							</li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/ais-for-research" class="top_map parent">Research Network</a>							</li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/marine-traffic-social" class="top_map parent">Social Media</a>							</li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/faq" class="top_map parent">Häufig gestellte Fragen</a>							</li>
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a href="#" class="top_services" data-toggle="dropdown"><i class="flaticon-machine2 font-110"></i> <span>Service</span><b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/services" class="top_map parent">Services Overview</a>							</li>
+							<li class="divider"></li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/plans" class="top_map parent">Subscription Plans</a>							</li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/satellite-ais" class="top_map parent">Satellite AIS</a>							</li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/mobile" class="top_map parent">Mobile apps</a>							</li>
+                            <li>
+                                <a href="http://www.marinetraffic.com/de/maritime-companies/search" class="top_map parent">Business directory</a>                            </li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/api-services" class="top_map parent">MarineTraffic API</a>							</li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/ais-historical-data" class="top_map parent">Historical AIS data</a>								</li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/embed-map" class="top_map parent">Embed our map</a>							</li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/my-notifications" class="top_map parent">Alerts & Notifications</a>							</li>
+							<li>
+								<a href="http://www.marinetraffic.com/de/p/marine-advertising" class="top_map parent">Advertise with us</a>							</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div><!-- navbar-collapse -->
+	</div>
+	</div><!-- container-fluid  -->
+</nav><!-- navbar -->
+        </header>
+
+        <div class="container-fluid has-ad-space detail-page" role="main">
+            <div class="alert alert-info text-left browser-outdated" style="margin: 10px auto; max-width: 560px;">
+    <button type="button" class="close" data-dismiss="alert">
+        <span aria-hidden="true">&times;</span>
+        <span class="sr-only">Close</span>
+    </button>
+    <div class="table-cell align-top">
+        <span class="fa-stack font-200" style="margin-right: 10px">
+            <i class="fa fa-square fa-stack-2x"></i>
+            <i style="color: #CDE7F4" class="fa fa-exclamation-triangle fa-stack-1x"></i>
+        </span>
+    </div>
+    <div class="table-cell align-top full-width">
+        <strong class="font-120">YOU ARE USING AN OUTDATED BROWSER</strong>
+        <div class="vertical-offset-5">It is limiting your browsing experience. Please upgrade to a modern browser.</div>
+    </div>
+</div>
+
+<div style="margin: 0 auto;padding:5px;display:none" class="alert alert-warning cookies-alert">
+    <div class="group-ib big-gap vertical-gap"><div><i class="fa fa-exclamation-triangle"></i> Cookies and local storage help us deliver our services. By using our services, you agree to <a class="color-inherit force-underline" target="_blank" href="/en/p/privacy-policy#cookies">our use of cookies and local storage</a>.</div><a data-dismiss="alert" class="btn btn-sm btn-warning cookies-alert-accept" href="#">Got it</a></div></div>
+        <div class="row upper">
+            <div class="col-xs-12 visible-lg vertical-offset-5 hidden-print">
+                <!-- mt_728x90_atf -->
+<div id='div-gpt-ad-1372944779896-0' style=''>
+</div>
+                <div id="upper_menu_stats" class="list-group pull-right text-left text-overflow" style="margin-bottom:0px; margin-left: 10px">
+                    <a href="/de/ais/index/ships/range" class="list-group-item bg-primary text-primary">
+                        <strong id="totalShipsTop">--</strong>                        <span class="vessels_live_text">ships live now</span>                    </a>
+                    <a href="/de/ais/index/ships/all" class="list-group-item bg-default">
+                        <strong id="vessels_db_text">--</strong>                        <span class="vessels_db_text">vessels in database</span>                    </a>
+                    <a href="/de/photos/of/ships" class="list-group-item bg-default bg-light">
+                        <strong id="vessels_db_text">--</strong>                        <span class="photos_up_text">photographs uploaded</span>                    </a>
+                </div>
+            </div>
+        </div>
+      
+
+            <div class="row">
+<div class="col-xs-12">
+
+<div class="well bg-primary padding-10 radius-4 vertical-offset-20 text-left">
+    <div class="table-cell text-overflow text-left collapse-768">
+        <div class="group-ib">
+                            <a href="/de/ais/index/ships/range/flag:DE"><img src="/img/flags/png40/DE.png" alt="Germany" title="Germany" border="0" /></a>
+                        <h1 class="font-200 no-margin">DETTMER TANK 47</h1>
+        </div>
+
+        <div class="group-ib vertical-offset-10">
+                        <a class="font-120" href="/de/ais/index/ships/range/ship_type:0">Unspecified</a>
+        </div>
+
+    </div>
+    <div style="vertical-align: bottom" class="table-cell cell-full text-right collapse-768">
+        <div class="vertical-offset-10 group-ib big-gap">
+
+            <button class="btn btn-primary login_gate" data-login-error="Please login to access your Fleet">Add to Fleet</button>
+            
+                            <a href="/de/wiki/edit/129276" class="contribute"><i class="fa fa-pencil fa-air font-110 font-normal"></i>Contribute to this page</a>
+                    </div>
+    </div>
+</div>
+</div>
+</div>
+<div class="row gutter-10">
+<div class="col-md-6 col-lg-5">
+
+<div class="bg-info bg-light padding-10 radius-4 text-left">
+    <div class="row">
+        <div class="col-xs-6 vertical-space" style="border-right: 1px dotted #000">
+            <div class="group-ib nospace-between short-line">
+                <span>IMO: </span>
+                <b>-</b>
+            </div>
+
+                        <div class="group-ib nospace-between short-line">
+                <span>MMSI: </span>
+                <b>211177630</b>
+            </div>
+            
+            <div class="group-ib nospace-between short-line">
+                <span>Rufzeichen: </span>
+                <b>DB9048</b>
+            </div>
+            <div class="group-ib nospace-between short-line">
+                <span>Flagge: </span>
+                <b>Germany (DE)</b>
+            </div>
+            <div class="group-ib nospace-between short-line">
+                <span>AIS Type: </span>
+                <b>Unspecified</b>
+            </div>
+        </div>
+        <div class="col-xs-6 vertical-space">
+            <div class="group-ib nospace-between short-line">
+                <span>Bruttoraumzahl: </span>
+                <b>-</b>
+            </div>
+            <div class="group-ib nospace-between short-line">
+                <span>Tragfahigkeit: </span>
+                <b>-</b>
+            </div>
+            <div class="group-ib nospace-between short-line">
+                <span>Länge × Breite: </span>
+                <b>86m &times; 10m</b>
+            </div>
+            <div class="group-ib nospace-between short-line">
+                <span>Baujahr: </span>
+                <b>-</b>
+            </div>
+            <div class="group-ib nospace-between short-line">
+                <span>Status: </span>
+                <b>Active</b>
+            </div>
+        </div>
+    </div>
+
+    </div>
+
+    <div class="panel panel-primary panel-alt vertical-offset-20">
+        <div class="panel-heading">
+            <header class="row">
+                <h2 class="col-xs-8 text-left no-margin font-140">Letzte bekannte Position</h2>
+                <span class="col-xs-4 text-right">In Range</span>
+            </header>
+        </div>
+
+        <div class="panel-body text-left short-line">
+            
+            <div class="table-cell cell-full collapse-500" style="vertical-align: top">
+                <div class="group-ib nospace-between">
+                    <span>Information empfangen: </span>
+                    <span><strong><span title="2015-01-08 20:15:57">3 min ago<time datetime="2015-01-08 20:15:57"> (2015-01-08 20:15)</time></span></strong></span>
+                </div>
+
+                                <div class="vertical-offset-10 group-ib nospace-between">
+                    <span>Gebiet: </span>
+                    <span><strong>Elbe River</strong></span>
+                </div>
+                
+                                <div class="vertical-offset-10 group-ib nospace-between">
+                    <span>Breite/Länge: </span>
+                    <span><strong><a href="/de/ais/home/centerx:9.950383/centery:53.50722/zoom:10/mmsi:211177630/shipid:129276" class="details_data_link">53.50722&deg; / 9.950383&deg;</a></strong></span>
+                </div>
+                
+                <div class="vertical-offset-10 group-ib nospace-between">
+                    <span>Status:</span>
+                    <span><strong>Stopped</strong></span>
+                </div>
+
+                <div class="vertical-offset-10 group-ib nospace-between">
+                    <span>Geschwindigkeit/Kurs: </span>
+                    <span><strong>0.0kn / -</strong></span>
+                </div>
+
+                                    <div class="vertical-offset-10 group-ib nospace-between">
+                        <span>AIS-Quelle: </span>
+                        <span><strong><a href="/de/ais/details/stations/678" class="details_data_link">678</a> H3Training&Yachtschule Eichler</strong></span>
+                    </div>
+                
+                <div class="vertical-offset-10 group-ib nospace-between">
+                    <strong><a href="/de/ais/index/itineraries/all/shipid:129276/mmsi:211177630/shipname:DETTMER%20TANK%2047" class="details_data_link">Routenverlauf</a></strong>
+                </div>
+
+                <div class="vertical-offset-10 group-ib nospace-between">
+                    <strong><a href="/de/ais/index/positions/all/shipid:129276/mmsi:211177630/shipname:DETTMER%20TANK%2047" class="details_data_link">Latest Positions</a></strong>
+                </div>
+
+                <div class="vertical-offset-10 group-ib nospace-between">
+                    <strong><a href="/de/ais/index/ships/nearby/shipid:129276/mmsi:211177630/shipname:DETTMER%20TANK%2047" class="details_data_link">Schiffe in der Nähe</a></strong>
+                </div>
+            </div>
+
+            
+                        <div class="table-cell collapse-500" style="vertical-align: top">
+                <div class="last-position-map" style="background: url(//maps.googleapis.com/maps/api/staticmap?zoom=8&size=266x218&maptype=roadmap&markers=icon:http://www.marinetraffic.com/img/shipicons/lightgray0.png%7Cshadow:false%7Ccolor:red%7Ccolor:red%7Clabel:C%7C53.50722,9.950383&sensor=false);width:266px">
+                    <div>
+                        <a class="btn btn-success" href="/de/ais/home/centerx:9.950383/centery:53.50722/zoom:8/mmsi:211177630/shipid:129276">
+                            Auf Live-Karte anzeigen                            <i class="fa fa-chevron-right"></i>
+                            <i class="fa fa-chevron-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            
+            
+        </div>
+    </div>
+<div class="panel panel-primary panel-alt vertical-offset-20">
+    <header class="panel-heading">
+        <div class="row">
+            <h2 class="col-xs-6 text-left no-margin font-140">Letzte angelaufene Häfen</h2>
+            <span class="col-xs-6 text-right">
+                <button class="btn pc_times btn-info btn-xs" id="pc_local">Ortszeit</button>                                 <button class="btn pc_times btn-default btn-xs" id="pc_utc">Zeit (UTC)</button>            </span>
+        </div>
+    </header>
+
+    <div class="panel-body text-left">
+
+        <div class="table-responsive mt-table">
+
+            <table class="table table-striped table-condensed">
+
+                <tr>
+                    <th>Hafen</th>
+                    <th>
+                        <span class="pc_utc_data">Ankunft (UTC)</span>
+                        <span class="pc_local_data">Ankunft (LT)</span>
+                    </th>
+                    <th>
+                        <span class="pc_utc_data">Abfahrt (UTC)</span>
+                        <span class="pc_local_data">Abfahrt (LT)</span>
+                    </th>
+                    <th>In Transit</th>
+                </tr>
+
+                <tr><td colspan="4"><a style="margin-bottom:0;" class="satellite_newer" href="/de/p/plans">
+                                        <span class="text-overflow">For older data records, please upgrade</span>
+                                        <i class="fa fa-chevron-right"></i>
+                                        <i class="fa fa-chevron-right"></i>
+                                    </a></td></tr>            </table>
+        </div>
+
+                    <div class="text-right vertical-offset-10">
+                <a class="btn btn-primary btn-light" target="_blank" href="/de/ais/index/port_moves/all/shipid:129276/mmsi:211177630/shipname:DETTMER%20TANK%2047">
+                    Show full list&nbsp;<i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+        
+    </div>
+</div>
+
+<!-- mt_300x250_hr -->
+<div id='div-gpt-ad-1364826985378-1' style='width:300px; height:250px;margin:10px auto;'>
+</div></div>
+<div class="col-md-6 col-lg-7">
+<div class="bg-default bg-dark radius-8 preloading" style="overflow: hidden">
+    <div class="padding-10"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#227637" class="block-elem" id="big-image"><img class="img-responsive center-block big_image" src="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=227637&size=" alt="DETTMER TANK 47" title="DETTMER TANK 47" border="0" /></a><div class="image_carousel" style="overflow:hidden"><div id="vessels_photos"><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#227637">
+                            <img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=227637&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 120px" border="0" />
+                            </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#108845"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=108845&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 120px" border="0" />
+                        </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#354688"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=354688&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 119px" border="0" />
+                        </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#96923"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=96923&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 120px" border="0" />
+                        </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#677427"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=677427&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 239px" border="0" />
+                        </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#551669"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=551669&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 120px" border="0" />
+                        </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#1725129"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=1725129&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 135px" border="0" />
+                        </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#1063018"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=1063018&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 130px" border="0" />
+                        </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#855077"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=855077&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 167px" border="0" />
+                        </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#757248"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=757248&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 120px" border="0" />
+                        </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#757246"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=757246&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 120px" border="0" />
+                        </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#757245"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=757245&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 120px" border="0" />
+                        </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#716278"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=716278&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 120px" border="0" />
+                        </a></div><div class="details_thumb"><a href="/de/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047#716277"><span class="loader vertical-aligned text-center"><i class="fa fa-spinner fa-spin font-200 text-default text-lightest"></i></span><img class="lazy_port_detail" src="/img/grey.gif" data-original="http://photos.marinetraffic.com/ais/showphoto.aspx?photoid=716277&size=thumb" alt="DETTMER TANK 47" title="DETTMER TANK 47" style="height: 90px; width: 120px" border="0" />
+                        </a></div></div><div class="clearfix"></div><a class="prev" id="vessels_photos_prev" href="#"><span class="glyphicon glyphicon-chevron-left"></span></a><a class="next" id="vessels_photos_next" href="#"><span class="glyphicon glyphicon-chevron-right"></span></a></div><div class="group-ib vertical-gap"><a class="login_gate btn btn-success"  href="/de/photos/upload/shipid:129276/name:DETTMER%20TANK%2047/type:Unspecified" data-login-error="You need to Login"><i class="fa fa-upload"></i>&nbsp;Foto hochladen</a><a class="btn btn-primary" href="/photos/of/ships/shipid:129276/ship_name:DETTMER%20TANK%2047">
+                <i class="fa fa-camera"></i>
+                Schiffsfotos: 14
+        	</a></div></div></div>
+
+
+<div class="bg-default bg-dark padding-10 radius-8 vertical-offset-20">
+        <div class="vessel_timeline">
+            <div class="static bg-primary" style="padding-bottom: 10px">
+                <img class="img-responsive center-block " src="/img/tl_events/upgrade.jpg" alt="Upgrade to access feature" title="Upgrade to access feature" border="0">
+                <br/>
+                <span style='font-size: 16px;'>VESSEL TIMELINE feature available to <b>PRO & SAT</b> subscribers</span>&nbsp;&nbsp;<a class="btn btn-success" href="/de/p/plans">&nbsp;UPGRADE NOW</a>            </div>
+        </div>
+</div>
+
+    <div class="panel panel-primary panel-alt vertical-offset-20">
+        <header class="panel-heading">
+            <div class="row">
+                <h2 class="col-xs-6 text-left no-margin font-140">Vessel's Wiki</h2>
+                <a class="col-xs-6 text-right" style="color:#fff;" href="/de/wiki/edit/129276"><i class="fa fa-pencil"></i> Contribute to this page</a>            </div>
+        </header>
+
+        <div class="panel-body text-left">
+            <div class="row arrow-panel gutter-minus-5 text-left">
+<div class="col-sm-3 col-md-3 col-lg-3 vertical-offset-10">
+<ul class="nav mt-nav-pills nav-pills nav-stacked"><li title="General" class="active"><a data-toggle="tab" href="#vessel_details_general">General</a></li><li title="Companies" class=""><a data-toggle="tab" href="#vessel_details_companies">Companies</a></li><li title="Build" class=""><a data-toggle="tab" href="#vessel_details_built">Build</a></li><li title="Dimensions" class=""><a data-toggle="tab" href="#vessel_details_dimensions">Dimensions</a></li><li title="Tonnage/Capacity" class=""><a data-toggle="tab" href="#vessel_details_tonnage_capacities">Tonnage/Capacity</a></li><li title="Gear" class=""><a data-toggle="tab" href="#vessel_details_construction_gear_machinery">Gear</a></li><li title="Engine details" class=""><a data-toggle="tab" href="#vessel_details_engine">Engine details</a></li><li title="Contacts" class=""><a data-toggle="tab" href="#vessel_details_communication">Contacts</a></li></ul></div>
+<div class="col-sm-9 col-md-9 col-lg-9">
+<div class="panel panel-default"><div class="panel-body tab-pane wiki_box" id="vessel_details_general"><ul class="vp-ul"><li><i class="fa fa-angle-right"></i>MMSI: <b>211177630</b></li><li><i class="fa fa-angle-right"></i>IMO: <b>0</b></li><li><i class="fa fa-angle-right"></i>Type: <b>14</b></li><li><i class="fa fa-angle-right"></i>Hull Number: <b></b></li><li><i class="fa fa-angle-right"></i>Class: <b>0</b></li><li><i class="fa fa-angle-right"></i>Status: <b></b></li><li><i class="fa fa-angle-right"></i>Year scrapped/lost: <b></b></li></ul></div><div class="panel-body tab-pane wiki_box" id="vessel_details_companies"><ul class="vp-ul"><li><i class="fa fa-angle-right"></i>Owner: <b></b></li><li><i class="fa fa-angle-right"></i>Manager: <b></b></li></ul></div><div class="panel-body tab-pane wiki_box" id="vessel_details_built"><ul class="vp-ul"><li><i class="fa fa-angle-right"></i>Builder: <b></b></li><li><i class="fa fa-angle-right"></i>Built (year): <b></b></li></ul></div><div class="panel-body tab-pane wiki_box" id="vessel_details_dimensions"><ul class="vp-ul"><li><i class="fa fa-angle-right"></i>Length overall (LOA): <b>86 m</b></li><li><i class="fa fa-angle-right"></i>Beam: <b>10 m</b></li><li><i class="fa fa-angle-right"></i>Draught (max): <b>-</b></li><li><i class="fa fa-angle-right"></i>Depth: <b>-</b></li><li><i class="fa fa-angle-right"></i>Height: <b>-</b></li></ul></div><div class="panel-body tab-pane wiki_box" id="vessel_details_tonnage_capacities"><ul class="vp-ul"><li><i class="fa fa-angle-right"></i>Gross Tonnage (GT): <b>-</b></li><li><i class="fa fa-angle-right"></i>Net Tonnage (NT): <b>-</b></li><li><i class="fa fa-angle-right"></i>Deadweight (DWT): <b>-</b></li><li><i class="fa fa-angle-right"></i>Displacement: <b>-</b></li><li><i class="fa fa-angle-right"></i>Holds/Tanks: <b>-</b></li><li><i class="fa fa-angle-right"></i>Bale: <b>-</b></li><li><i class="fa fa-angle-right"></i>Grain: <b>-</b></li><li><i class="fa fa-angle-right"></i>TEU: <b>-</b></li><li><i class="fa fa-angle-right"></i>Passengers: <b>-</b></li><li><i class="fa fa-angle-right"></i>Cars: <b>-</b></li><li><i class="fa fa-angle-right"></i>Trucks: <b>-</b></li><li><i class="fa fa-angle-right"></i>Ro-Ro Lanes: <b>-</b></li><li><i class="fa fa-angle-right"></i>Liquid Capacity: <b>-</b></li><li><i class="fa fa-angle-right"></i>Liquid Gas Capacity: <b>-</b></li><li><i class="fa fa-angle-right"></i>Oil Capacity: <b>-</b></li></ul></div><div class="panel-body tab-pane wiki_box" id="vessel_details_construction_gear_machinery"><ul class="vp-ul"><li><i class="fa fa-angle-right"></i>Safe Working Load (SWL): <b></b></li><li><i class="fa fa-angle-right"></i>Gear: <b></b></li><li><i class="fa fa-angle-right"></i>Hatches: <b></b></li><li><i class="fa fa-angle-right"></i>Number of Pumps: <b></b></li><li><i class="fa fa-angle-right"></i>Pumps Capacity: <b></b></li></ul></div><div class="panel-body tab-pane wiki_box" id="vessel_details_engine"><ul class="vp-ul"><li><i class="fa fa-angle-right"></i>Number of Main Engine(s): <b></b></li><li><i class="fa fa-angle-right"></i>Main Engine builder: <b></b></li><li><i class="fa fa-angle-right"></i>Main Model: <b></b></li><li><i class="fa fa-angle-right"></i>Main RPM: <b>-</b></li><li><i class="fa fa-angle-right"></i>Main power /  Main HP: <b>--</b></li><li><i class="fa fa-angle-right"></i>Main Fuel: <b></b></li><li><i class="fa fa-angle-right"></i>Main Consumption: <b>-</b></li><li><i class="fa fa-angle-right"></i>Number of Auxiliary Engine(s): <b></b></li><li><i class="fa fa-angle-right"></i>Aux Engine builder: <b></b></li><li><i class="fa fa-angle-right"></i>Aux Model: <b></b></li><li><i class="fa fa-angle-right"></i>Aux RPM: <b>-</b></li><li><i class="fa fa-angle-right"></i>Aux power / Auxiliary HP: <b>-</b></li><li><i class="fa fa-angle-right"></i>Aux Fuel: <b></b></li><li><i class="fa fa-angle-right"></i>Aux Consumption: <b>-</b></li><li><i class="fa fa-angle-right"></i>Bowthruster: <b></b></li><li><i class="fa fa-angle-right"></i>Propeller(s): <b></b></li></ul></div><div class="panel-body tab-pane wiki_box" id="vessel_details_communication"><ul class="vp-ul"><li><i class="fa fa-angle-right"></i>Sat Telex: <b></b></li><li><i class="fa fa-angle-right"></i>Sat Phone: <b></b></li><li><i class="fa fa-angle-right"></i>Sat Fax: <b></b></li><li><i class="fa fa-angle-right"></i>Mobile number: <b></b></li></ul></div></div></div>
+</div>
+        </div>
+    </div>
+</div>
+</div>
+
+                <div id="btf_container" class="hidden-print adsense_728x90_container" style="width:100%">
+        <div class="adsense_728x90">
+            <!-- mt_728x90_btf -->
+<div id='div-gpt-ad-1364826985378-5' style='width:728px;height:90px;'>
+</div>        </div>
+    </div>
+
+                    <div id="skyscrapper_container" class="ads hidden-print vertical-offset-5" style="background-color: #E5E7E9;">
+        <div class="banner_160">
+            <!-- mt_160x160_atf -->
+<div id='div-gpt-ad-1381773599378-0' style='width:160px; height:160px;'>
+</div>        </div>
+        <div class="banner_160x600" style="margin-top: 10px">
+            <!-- mt_160x600_atf -->
+<div id='div-gpt-ad-1364826985378-0' style='width:160px;height:600px;'>
+</div>        </div>
+        <div class="banner_160" style="height: 40px;">
+            <a style="font-size: 12px; color:gray; line-height: 40px;" href="/de/p/plans">Remove Ads</a>
+        </div>
+    </div>
+        </div>
+
+        <footer role="contentinfo" class="bg-primary bg-darker text-left no-padding vertical-offset-20">
+            <div class="container">
+    <div class="row">
+        <div id="fb-root"></div>
+        <div class="col-md-6">
+            <div class="row">
+                <section class="col-sm-6">
+                    <div class="vertical-offset-20"></div>
+                    <header class="font-120 text-overflow">
+                        <strong>Navigation</strong>
+                    </header>
+                    <ul class="no-disc no-padding vertical-offset-10">
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/">Echtzeitkarte</a></li>
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/ais/index/ships/range">Schiffe</a></li>
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/ais/index/ports/all">Häfen</a></li>
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/ais/index/lights/all">Leuchtzeichen</a></li>
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/photos/of/ships">fotos</a></li>
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/maritime-companies/search">Business directory</a></li>
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="https://shop.marinetraffic.com">AIS e-shop</a></li>
+                    </ul>
+                </section>
+
+                <section class="col-sm-6">
+                    <div class="vertical-offset-20 visible-sm visible-md  visible-lg"></div>
+                    <div class="vertical-offset-30 visible-xs"></div>
+                    <header class="font-120 text-overflow">
+                        <strong>Direktlinks</strong>
+                    </header>
+                    <ul class="no-disc no-padding vertical-offset-10">
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/p/expand-coverage">Auswahl des eigenen Gebietes</a></li>
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/p/report-your-own-position">Eigene Position melden</a></li>
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/p/apply-for-free-ais-receiver">Apply for a free AIS Receiver</a></li>
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/p/faq" class="parent top_map">Häufig gestellte Fragen</a></li>
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/ais/index/port_moves">Ankünfte + Abfahrten</a></li>
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/ais/index/eta/all">Erwartete Ankunft</a></li>
+                        <li class="vertical-offset-10"><i class="fa fa-angle-right font-80 font-bold"></i> <a class="color-inherit" href="/de/p/marine-advertising">Advertise with us</a></li>
+                    </ul>
+                </section>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="row">
+                <section class="col-sm-6">
+                    <div class="vertical-offset-20 visible-lg visible-md"></div>
+                    <div class="vertical-offset-30 visible-xs visible-sm"></div>
+                    <header class="font-120 text-overflow">
+                        <strong>Stay connected</strong>
+                    </header>
+                    <div class="vertical-offset-10 radius-4" style="overflow: hidden; max-width: 240px">
+                        <a class="footer-btn btn-fb no-underline block-elem color-inherit" href="https://www.facebook.com/MarineTraffic" target="_blank" title="MarineTraffic on Facebook">
+                            <i class="fa fa-facebook font-160 text-center transitional block-elem pull-left no-margin"></i>
+                            <span data-width-calc="60" class="font-90 visible-lg visible-sm text-overflow transitional block-elem pull-right no-margin">LIKE US ON FACEBOOK</span>
+                            <span data-width-calc="60" class="font-80 visible-md visible-xs text-overflow transitional block-elem pull-right no-margin">LIKE US ON FACEBOOK</span>
+                        </a>
+                    </div>
+
+                    <div class="vertical-offset-10 radius-4" style="overflow: hidden; max-width: 240px">
+                        <a class="footer-btn btn-tw no-underline block-elem color-inherit" href="https://twitter.com/MarineTraffic" target="_blank" title="MarineTraffic on Twitter">
+                            <i class="fa fa-twitter font-160 text-center transitional block-elem pull-left no-margin"></i>
+                            <span data-width-calc="60" class="font-90 visible-lg visible-sm text-overflow transitional block-elem pull-right no-margin">FOLLOW US ON TWITTER</span>
+                            <span data-width-calc="60" class="font-80 visible-md visible-xs text-overflow transitional block-elem pull-right no-margin">FOLLOW US ON TWITTER</span>
+                        </a>
+                    </div>
+
+                    <div class="vertical-offset-10 radius-4" style="overflow: hidden; max-width: 240px">
+                        <a class="footer-btn btn-gp radius-4 no-underline group-ib block-elem color-inherit" href="https://plus.google.com/b/110483202566231084267/+marinetraffic/posts" target="_blank" title="MarineTraffic on Google+">
+                            <i class="fa fa-google-plus font-160 text-center transitional block-elem pull-left no-margin"></i>
+                            <span data-width-calc="60" class="font-90 visible-lg visible-sm text-overflow transitional block-elem pull-right no-margin">FIND US ON GOOGLE+</span>
+                            <span data-width-calc="60" class="font-80 visible-md visible-xs text-overflow transitional block-elem pull-right no-margin">FIND US ON GOOGLE+</span>
+                        </a>
+                    </div>
+                </section>
+
+                <section class="col-sm-6">
+                    <div class="vertical-offset-20 visible-lg visible-md"></div>
+                    <div class="vertical-offset-30 visible-xs visible-sm"></div>
+                    <header class="font-120 text-overflow">
+                        <strong>Mobile apps</strong>
+                    </header>
+
+                    <div class="vertical-offset-10 radius-4" style="overflow: hidden; max-width: 240px">
+                        <a class="footer-btn radius-4 no-underline block-elem color-inherit text-center" href="http://itunes.apple.com/us/app/marinetraffic/id563910324" target="_blank" title="MarineTraffic for iPhone, iPad and iPod Touch">
+                            <i class="fa flaticon-apple font-280 transitional block-elem pull-left no-margin"></i>
+                            <div data-width-calc="60" class="footer-btn-img text-overflow text-left transitional block-elem pull-right no-margin">
+                                <div class="font-80 vertical-offset-5">Available on the iPhone</div>
+                                <img class="img-responsive vertical-offset-5" style="max-width: 80%" src="/img/appstore.png" alt="Available on the AppStore" />
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="vertical-offset-10 radius-4" style="overflow: hidden; max-width: 240px">
+                        <a class="footer-btn radius-4 no-underline group-ib block-elem color-inherit text-center" href="https://play.google.com/store/apps/details?id=com.marinetraffic.android" target="_blank" title="MarineTraffic for Android devices">
+                            <i class="fa flaticon-google35 font-300 transitional block-elem pull-left no-margin"></i>
+                            <div data-width-calc="60" class="footer-btn-img text-overflow text-left transitional block-elem pull-right no-margin">
+                                <div class="font-50 vertical-offset-5 font-bold">ANDROID APP ON</div>
+                                <img class="img-responsive vertical-offset-5" style="max-width: 90%" src="/img/googleplay.png" alt="MarineTraffic for Android devices" />
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="vertical-offset-10 radius-4" style="overflow: hidden; max-width: 240px">
+                        <a class="footer-btn radius-4 no-underline group-ib block-elem color-inherit text-center" href="http://www.windowsphone.com/s?appid=e59ea6b2-857c-469a-9c31-53494c3b0d8a" target="_blank" title="MarineTraffic for Windows Phone">
+                            <div class="footer-btn-img text-center transitional block-elem pull-left no-margin">
+                                <img src="/img/windows-store-icon.png" alt="" />
+                            </div>
+                            <div data-width-calc="60" class="footer-btn-img text-overflow text-left transitional font-80 vertical-aligned block-elem pull-right no-margin">
+                                <div>Download from<br/>Windows Phone Store</div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="vertical-offset-10 radius-4" style="overflow: hidden; max-width: 240px">
+                        <a class="footer-btn radius-4 no-underline group-ib block-elem color-inherit text-center" href="http://www.amazon.com/gp/product/B00MHSJQ7Q/ref=mas_pm_MarineTraffic" target="_blank" title="MarineTraffic for Kindle Fire">
+                            <i class="fa flaticon-amazon font-320 transitional block-elem pull-left no-margin"></i>
+                            <div data-width-calc="60" class="footer-btn-img text-overflow text-left transitional block-elem pull-right no-margin">
+                                <div class="font-80 vertical-offset-5">Available at</div>
+                                <i class="flaticon-amazon4"></i>
+                            </div>
+                        </a>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-primary bg-darkest ib-elem group-ib vertical-gap padding-5 radius-4 vertical-offset-20">
+        <span>Select your language</span>
+        <div class="desktop-visible">
+            <div class="btn-group dropup">
+                <button type="button" class="btn btn-primary dropdown-toggle no-radius" data-toggle="dropdown">
+                    <span>DE</span>
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu no-padding bg-default bg-lightest lang-drop" style="overflow: hidden">
+                    <div style="max-height: 200px; overflow-y: scroll">
+                                                <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/en/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=en">
+                                <span title="English"> English</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/ar/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ar">
+                                <span title="Arabic"> العربية</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/bg/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=bg">
+                                <span title="Bulgarian"> Български</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/cn/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=cn">
+                                <span title="Chinese"> 中文</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/tw/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=tw">
+                                <span title="Chinese(Traditional)"> 中文(繁體)</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/cz/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=cz">
+                                <span title="Czech"> Čeština</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/dk/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=dk">
+                                <span title="Danish"> Dansk</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/gr/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=gr">
+                                <span title="Greek"> Ελληνικά</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/ee/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ee">
+                                <span title="Estonian"> Eesti keel</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/es/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=es">
+                                <span title="Spanish"> Español</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/ir/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ir">
+                                <span title="Farsi-Persian"> فارسی</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/fr/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=fr">
+                                <span title="French"> Français</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/ge/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ge">
+                                <span title="Georgian"> ქართული</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/il/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=il">
+                                <span title="Hebrew"> עברית</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/hr/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=hr">
+                                <span title="Croatian"> Hrvatski</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/is/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=is">
+                                <span title="Icelandic"> Íslenska</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/it/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=it">
+                                <span title="Italian"> Italiano</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/jp/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=jp">
+                                <span title="Japanese"> 日本語</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/lv/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=lv">
+                                <span title="Latvian"> Latviešu</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/nl/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=nl">
+                                <span title="Dutch"> Nederlands</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/no/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=no">
+                                <span title="Norwegian"> Norsk</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/pl/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=pl">
+                                <span title="Polish"> Polski</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/pt/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=pt">
+                                <span title="Portuguese"> Português</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/ro/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ro">
+                                <span title="Romanian"> Română</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/ru/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ru">
+                                <span title="Russian"> Русский</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/rs/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=rs">
+                                <span title="Serbian"> Srpski</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/si/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=si">
+                                <span title="Slovenian"> Slovenščina</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/fi/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=fi">
+                                <span title="Finnish"> Suomi</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/se/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=se">
+                                <span title="Swedish"> Svenska</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/th/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=th">
+                                <span title="Thai"> ภาษาไทย</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/tr/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=tr">
+                                <span title="Turkish"> Türkçe</span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a class="padding-5 no-underline block-elem text-default text-dark hover-primary transitional" href="/ua/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ua">
+                                <span title="Ukranian"> Українська</span>
+                            </a>
+                        </li>
+                                        </div>
+                </ul>
+            </div>
+        </div>
+        <div class="mobile-visible">
+            <select style="width: auto" class="form-control auto_select">
+                                    <option value="/en/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=en"> English</option>
+                                    <option value="/ar/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ar"> العربية</option>
+                                    <option value="/bg/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=bg"> Български</option>
+                                    <option value="/cn/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=cn"> 中文</option>
+                                    <option value="/tw/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=tw"> 中文(繁體)</option>
+                                    <option value="/cz/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=cz"> Čeština</option>
+                                    <option value="/dk/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=dk"> Dansk</option>
+                                    <option selected="selected"> Deutsch</option>
+                                    <option value="/gr/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=gr"> Ελληνικά</option>
+                                    <option value="/ee/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ee"> Eesti keel</option>
+                                    <option value="/es/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=es"> Español</option>
+                                    <option value="/ir/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ir"> فارسی</option>
+                                    <option value="/fr/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=fr"> Français</option>
+                                    <option value="/ge/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ge"> ქართული</option>
+                                    <option value="/il/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=il"> עברית</option>
+                                    <option value="/hr/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=hr"> Hrvatski</option>
+                                    <option value="/is/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=is"> Íslenska</option>
+                                    <option value="/it/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=it"> Italiano</option>
+                                    <option value="/jp/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=jp"> 日本語</option>
+                                    <option value="/lv/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=lv"> Latviešu</option>
+                                    <option value="/nl/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=nl"> Nederlands</option>
+                                    <option value="/no/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=no"> Norsk</option>
+                                    <option value="/pl/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=pl"> Polski</option>
+                                    <option value="/pt/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=pt"> Português</option>
+                                    <option value="/ro/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ro"> Română</option>
+                                    <option value="/ru/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ru"> Русский</option>
+                                    <option value="/rs/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=rs"> Srpski</option>
+                                    <option value="/si/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=si"> Slovenščina</option>
+                                    <option value="/fi/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=fi"> Suomi</option>
+                                    <option value="/se/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=se"> Svenska</option>
+                                    <option value="/th/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=th"> ภาษาไทย</option>
+                                    <option value="/tr/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=tr"> Türkçe</option>
+                                    <option value="/ua/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47?lang=ua"> Українська</option>
+                            </select>
+        </div>
+    </div>
+
+</div>
+
+<div class="footer-lower font-80 font-bold padding-10 bg-primary bg-darkest vertical-offset-20">
+    <div class="container">
+        <div class="row gutter-5">
+            <div class="col-xs-10 text-left">
+                &copy; MarineTraffic.com&nbsp;&nbsp;  |&nbsp;&nbsp;  <a class="color-inherit" href="/de/p/terms">Terms of Service</a>&nbsp;&nbsp;  |&nbsp;&nbsp;  <a class="color-inherit" href="/de/p/privacy-policy">Privacy Policy</a>&nbsp;&nbsp;  |&nbsp;&nbsp;  <a  class="color-inherit" href="/de/p/user-agreement">User Agreement</a>
+            </div>
+            <div class="col-xs-2 text-right">
+               <a class="color-inherit" href="http://help.marinetraffic.com" target="_blank" title="Help">Help</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Generic modal shell -->
+<div id="modal_shell" class="modal fade ajax" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+
+<!-- Generic lg modal shell -->
+<div id="modal_lg_shell" class="modal fade ajax" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+
+<!-- Generic modal reset-form shell -->
+<div id="modal_reset_shell" class="modal fade form-reset ajax" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+        </footer>
+
+    	        <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?libraries=geometry,drawing,adsense,places&sensor=false&client=gme-maltenozlimited"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.13.2/TweenMax.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.13.2/plugins/TextPlugin.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highcharts/4.0.3/highcharts.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highcharts/4.0.3/highcharts-more.js"></script><script type="text/javascript" src="/js/mt-core.js"></script><script type="text/javascript" src="/js/js-data-detail-1.5.722.5694.js"></script>        <script type="text/javascript">
+//<![CDATA[
+
+    $(".pc_utc_data").hide();
+    $(".pc_times").click(function(e){
+        e.preventDefault();
+        $(".pc_times").removeClass("btn-info").addClass("btn-default");
+        $(this).removeClass("btn-default").addClass("btn-info");
+        $(".pc_utc_data, .pc_local_data").hide();
+        var id = $(this).attr("id");
+        $("."+id+"_data").show();
+    })
+
+
+        var btfContainer = $("#btf_container");
+        var btfContainerParent = btfContainer.parent();
+        $(window).resize(function() {
+            if (btfContainerParent.width() < 728) {
+                btfContainer.hide();
+            } else {
+                btfContainer.show();
+            }
+        });
+    
+//]]>
+</script>
+</body>
+</html>

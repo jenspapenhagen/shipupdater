@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ships>
+	<ship>
+		<name>DETTMER Tank 47</name>
+		<shortname>dt47</shortname>
+		<url>http://www.marinetraffic.com/de/ais/details/ships/shipid:129276/mmsi:211177630/imo:0/vessel:DETTMER_TANK_47</url>
+	</ship>
+	<ship>
+		<name>DETTMER Tank 52</name>
+		<shortname>dt52</shortname>
+		<url>http://www.marinetraffic.com/de/ais/details/ships/shipid:128646/imo:0/mmsi:211168250/vessel:DETTMER%20TANK%2052</url>
+	</ship>
+	<ship>
+		<name>KRAICHGAU 3</name>
+		<shortname>kr3</shortname>
+		<url>http://www.marinetraffic.com/de/ais/details/ships/shipid:137681/mmsi:211505460/vessel:KRAICHGAU%203</url>
+	</ship>
+	<ship>
+		<name>KRAICHGAU 2</name>
+		<shortname>kr2</shortname>
+		<url>http://www.marinetraffic.com/de/ais/details/ships/shipid:140875/mmsi:211554140/vessel:KRAICHGAU%202</url>
+	</ship>
+</ships>

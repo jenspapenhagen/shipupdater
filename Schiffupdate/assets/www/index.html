@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html ng-app="ionicApp">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+  <link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
+  <title>Schiffs Update</title>
+
+  <!-- Ionic framework - replace the CDN links with local files and build -->    
+  <link href="lib/ionicframework/ionic.min.css" rel="stylesheet">
+  <script src="lib/ionicframework/ionic.bundle.min.js"></script>
+
+
+ <script type="text/javascript" src="cordova.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
+ <script type="text/javascript" src="xhr.js"></script>  
+  <style>
+      .box {
+          height:300px;
+          padding: 10px
+      }
+      .title{
+          background-color:#6A81C7; 
+          font-weight:bold; 
+          font-size:16pt; 
+          color:#E0E0E0; 
+      }
+  </style>
+</head>
+
+<body ng-controller="AppCtrl">
+    
+    <ion-header-bar class="title">
+            <span style="padding-right: 20px;"><a href="http://ahoi.esy.es/test.html" target="theiFrame">HOME</a></span>
+	        <span class=".items" style="padding-right: 20px;"><a href="http://ahoi.esy.es/info.html" target="theiFrame">Info</a></span>
+            <span class=".items"><a href="http://ahoi.esy.es/?update=1" target="theiFrame"><img src="img/update_icon.png" border="0"></a></span>
+    </ion-header-bar>
+    <ion-content padding="true">
+	<div id="status"></div>
+					<div id="content">
+					   <iframe src='http://ahoi.esy.es/?update=1' width='100%' height="550" scrolling='yes' allowtransparency="true" frameBorder='0' id='theiFrame' name='theiFrame' onLoad='fixiFrame();'></iframe>
+                        <script type='text/javascript'>
+                            function fixiFrame () {
+                               if ((android) && (androidVersion > 3)) {
+                                  iFrameContentHeight = document.getElementById('theiFrame').contentDocument.body.offsetHeight;
+                                  document.getElementById('theiFrame').style.height = iFrameContentHeight + 'px';
+                               }
+                            }
+                        </script>
+					 </div>
+    </ion-content>
+</body>
+</html>

@@ -1,0 +1,138 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_45 (Sun Microsystems Inc.)
+
+Name: assets/www/plugins/org.apache.cordova.file/www/ProgressEvent.js
+SHA1-Digest: rnNeXgEfu1DcDHUqC0qh+JWzBVc=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/File.js
+SHA1-Digest: giz4vi+QfJUZZoHx72ndIElhSK8=
+
+Name: res/xml/config.xml
+SHA1-Digest: 2B6n6SDwtQAy1AD3Zc6UEkHblbI=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileUploadResult.
+ js
+SHA1-Digest: zwdSIDUwbK8ndwvhEWXSGOq9whQ=
+
+Name: assets/www/css/index.css
+SHA1-Digest: Xn5KKnRg99sIQW5z0rf5zJjEDgI=
+
+Name: resources.arsc
+SHA1-Digest: Xr9HCSGSHMGrLFKWwEIZf5MXC3E=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/DirectoryEntry.js
+SHA1-Digest: oImLI4+dHBV8MoTByxAzLe/Pwcc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: D64eGlBka8FoctiOOyhFbCLMhyw=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/android/FileSyste
+ m.js
+SHA1-Digest: U7oappTFR3UlVHc04uvne1Rrfi0=
+
+Name: assets/www/lib/ionicframework/ionic.min.css
+SHA1-Digest: 0zRPxmipr3RfAJPDAQs2nFv+82Q=
+
+Name: assets/www/img/logo.png
+SHA1-Digest: MW0GF0+VJyF3L6n2kH6NKUswUL0=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileSystem.js
+SHA1-Digest: in4DhyAVxRE1mWSuL9tdKHp8VbA=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/requestFileSystem
+ .js
+SHA1-Digest: opCGq936N96YzmGbdWR1SNRXNes=
+
+Name: assets/www/css/style.css
+SHA1-Digest: Y1UUTI21NofDpZIYU0vkV9LAGKY=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/resolveLocalFileS
+ ystemURI.js
+SHA1-Digest: xLyKgvkqvNtg0HJOPjuErCbytqI=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/Flags.js
+SHA1-Digest: 0Uu8pBiwVbmhGmpeoPn3cqiu6h4=
+
+Name: assets/www/js/app.js
+SHA1-Digest: nD5onc1g7HHndMAP8c3vtvcF+gE=
+
+Name: assets/www/plugins/org.apache.cordova.file-transfer/www/FileTran
+ sfer.js
+SHA1-Digest: ooB16SKpH+p9A9kEUgjhTRovuak=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/DirectoryReader.j
+ s
+SHA1-Digest: bkiWOzW7lYdtV1vP9fHtqETS1aY=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: tfNoR0gzvQxei2XfXwu7wXljUIY=
+
+Name: assets/www/img/update_icon.png
+SHA1-Digest: UWRuJ8BWRq6ArATyR+N4hIqmhQQ=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileReader.js
+SHA1-Digest: JSNVyjjjLoy5OGMLGwZeXYTDPaE=
+
+Name: assets/www/js/jquery.js
+SHA1-Digest: QbS/uqlr5tFEDbbngASt4cE04nY=
+
+Name: assets/_where-is-www.txt
+SHA1-Digest: avAF2z5NXxA7dhGqngRyQ0ETAG0=
+
+Name: assets/www/img/anchor-icon.png
+SHA1-Digest: CJsadzg6Qc++j8OuMGJWOniYSsk=
+
+Name: classes.dex
+SHA1-Digest: 4skV+EImFfi+h0BaIHTUzci1RiQ=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: 8m4yqy5WzXELOH+a2NBWN0aDd2U=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileEntry.js
+SHA1-Digest: lRZQEnVEg2zd976jRKtem1u4dC8=
+
+Name: assets/www/js/index.js
+SHA1-Digest: qWUWzEgR1zqkZtj2YJBZhJRTQqk=
+
+Name: assets/www/content.xml
+SHA1-Digest: T50l8lhOoHQKVCcaAV6Cgiw4iR8=
+
+Name: assets/www/cordova.js
+SHA1-Digest: E1lapTaBw348FAweeYYpe4w1GNs=
+
+Name: res/drawable/icon.png
+SHA1-Digest: tfNoR0gzvQxei2XfXwu7wXljUIY=
+
+Name: assets/www/icon.png
+SHA1-Digest: 3Cy9NUHYxD8bQOTl+lcYkKgpbYw=
+
+Name: assets/www/plugins/org.apache.cordova.file-transfer/www/FileTran
+ sferError.js
+SHA1-Digest: LFEm/MIrQv+htpZfYtufpv2pHL4=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileUploadOptions
+ .js
+SHA1-Digest: LLask/31czIhUqxzVULkUIwoyKQ=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/LocalFileSystem.j
+ s
+SHA1-Digest: OXzRBSHsTSb29j8Zc6VHcSH2TqY=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/Entry.js
+SHA1-Digest: C2dFtgdPUoowkkoW65pEOPnhKZE=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileError.js
+SHA1-Digest: PeZ8ZcVk1t40ofTgylaIY0pdv4Y=
+
+Name: assets/www/index.html
+SHA1-Digest: zLn+TnvNYMahMuPuiH+8PST7Rs0=
+
+Name: assets/www/lib/ionicframework/ionic.bundle.min.js
+SHA1-Digest: ZH99DD2VFFP2REYAQR5wbA25nRw=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/Metadata.js
+SHA1-Digest: 3X0WnYr1p+kjMYGY2pxkwdxmFKY=
+
+Name: assets/www/plugins/org.apache.cordova.file/www/FileWriter.js
+SHA1-Digest: Nnh5VPhxUx5wt4HLV1o9ccSRh38=
+

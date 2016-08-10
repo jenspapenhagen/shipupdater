@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ships>
+	<ship>
+		<name>DETTMER Tank 47</name>
+		<shortname>dt47</shortname>
+		<status>Stopped</status>
+		<lastupdate>3 min ago (2015-01-08 20:15)</lastupdate>
+		<arena></arena>
+		<latitude>53.50722</latitude>
+		<longitude>9.950383</longitude>
+	</ship>
+	<ship>
+		<name>DETTMER Tank 52</name>
+		<shortname>dt52</shortname>
+		<status>Stopped</status>
+		<lastupdate>2014-12-07 15:34</lastupdate>
+		<arena></arena>
+		<latitude>53.50886</latitude>
+		<longitude>9.95524</longitude>
+	</ship>
+	<ship>
+		<name>KRAICHGAU 3</name>
+		<shortname>kr3</shortname>
+		<status>Underway using Engine</status>
+		<lastupdate>5 h, 17 min ago (2015-01-08 15:02)</lastupdate>
+		<arena></arena>
+		<latitude>51.99342</latitude>
+		<longitude>7.659425</longitude>
+	</ship>
+	<ship>
+		<name>KRAICHGAU 2</name>
+		<shortname>kr2</shortname>
+		<status>Underway using Engine</status>
+		<lastupdate>6 h, 9 min ago (2015-01-08 14:10)</lastupdate>
+		<arena></arena>
+		<latitude>49.86064</latitude>
+		<longitude>8.378632</longitude>
+	</ship>
+</ships>
