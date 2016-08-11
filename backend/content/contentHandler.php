@@ -1,16 +1,19 @@
 <?php
 include_once "content/pip.php";
+include_once "content/curlWebsite.php";
 
 class contentHandler{
-     private $pointLocation;
-   
-    
+    private $pointLocation;
+    private $curlWebsite;
+	
+    //construct
     function contentHandler(){
         $this->pointLocation = new pointLocation();
+		$this->curlWebsite = new curlWebsite();
     }
     
     function bereich($punkt){
-        //areas:
+        //areas of intesse:
         $SaureBeladestelle = array("53.50902 10.05783","53.50895 10.06067","53.50594 10.05642","53.50586 10.06028");
    
         $output = "";
@@ -32,45 +35,13 @@ class contentHandler{
             $delfile = "content/".$shortname.".txt";
             if(file_exists($delfile) and filemtime($delfile) < (time() - 300 ) ){
                 unlink($delfile);
-                $this->curlInfos($url, $shortname);
+                $this->curlWebsite($url, $shortname);
                 $output = "Updated";
             }else{
                 $output = "Update only every 5min";
             }
         }
         return $output;
-    }
-    
-    function curlInfos($url, $shortname){
-    
-        //File to save the contents to
-        $filename = "content/".$shortname.".txt";
-        $fp = fopen ($filename, "w+");
-    
-        //Here is the file we are downloading, replace spaces with %20
-        $ch = curl_init(str_replace(" ","%20",$url));
-        curl_setopt($ch, CURLOPT_USERAGENT,"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0");
-        curl_setopt($ch, CURLOPT_HEADER, 1);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-        curl_setopt($ch, CURLOPT_TIMEOUT, 50);
-        curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 20);
-        curl_setopt($ch, CURLOPT_REFERER, 'http://www.marinetraffic.com/');
-
-        
-        //get random proxy form list
-        //$f_contents = file("proxy.txt");
-        //$line = $f_contents[rand(0, count($f_contents) - 1)];
-        //$port = explode(" ", $line);
-        //curl_setopt($ch, CURLOPT_PROXYAUTH, CURLAUTH_NTLM);
-        //curl_setopt($ch, CURLOPT_PROXY, $line);
-        //curl_setopt($ch, CURLOPT_PROXYPORT, $port[1]);
-    
-        //give curl the file pointer so that it can write to it
-        curl_setopt($ch, CURLOPT_FILE, $fp);
-    
-        $data = curl_exec($ch);//get curl response
-    
-        curl_close($ch);
     }
     
     function get_linenumber_form_file($file, $search){
@@ -169,11 +140,13 @@ class contentHandler{
             unlink("content.json");
         }
         $newXMLfile = fopen($contentfile, "a+");
+		
+		//the header of the XML
         $str = "<?xml version=\"1.0\" encoding=\"UTF-8\"";
         $str .= "?>"."\n";
         $str .= "<ships>\n";
     
-    
+		//body of the XML
         foreach( $xml->xpath( '//ship') as $ship) {
             $str .= "\t"."<ship>"."\n";
             $str .= "\t"."\t"."<name>";
@@ -181,21 +154,20 @@ class contentHandler{
             $str .= "</name>\n";
     
             $str .= "\t"."\t"."<shortname>";
-            $shortname = $ship->shortname;
-            $str .= $shortname;
+            $str .= $ship->shortname;
             $str .= "</shortname>\n";
     
             $str .= "\t"."\t"."<status>";
-            $str .= $this->getStatus($shortname);
+            $str .= $this->getStatus($ship->shortname);
             $str .= "</status>\n";
     
             $str .= "\t"."\t"."<lastupdate>";
-            $str .= $this->lastStatus($shortname);
+            $str .= $this->lastStatus($ship->shortname);
             $str .= "</lastupdate>\n";
              
             //build the piont for area checking
-            $lat = $this->getLatLon($shortname);
-            $lon = $this->getLatLon($shortname);
+            $lat = $this->getLatLon($ship->shortname);
+            $lon = $this->getLatLon($ship->shortname);
             $punkt = $lat['lat']." ".$lon['lon'];
             if($this->bereich($punkt) != "" ){
                 $str .= "\t"."\t"."<arena>";
@@ -215,7 +187,7 @@ class contentHandler{
             }
             $str .= "\t"."</ship>\n";
         }
-    
+		//footer of the XML
         $str .= "</ships>";
         
         //save the XML file
@@ -228,7 +200,6 @@ class contentHandler{
 
     
     function ParseXMLToJSON($file) {
-        
         $fileContents= file_get_contents($file);
         $fileContents = str_replace(array("\n", "\r", "\t"), '', $fileContents);
         $fileContents = trim(str_replace('"', "'", $fileContents));
